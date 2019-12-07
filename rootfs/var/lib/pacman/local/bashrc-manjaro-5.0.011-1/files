@@ -1,0 +1,10 @@
+%FILES%
+etc/
+etc/bash.bashrc
+etc/skel/
+etc/skel/.bashrc
+
+%BACKUP%
+etc/bash.bashrc	d8f3f334e72c0e30032eae1a1229aef1
+etc/skel/.bashrc	f6d012f6bed87567b0df448a5a3a78f2
+

@@ -1,0 +1,268 @@
+[2019-12-07T08:01:34+0200] [PACMAN] Running 'pacman -r rootfs -Sy --cachedir=rootfs/var/cache/pacman/pkg --noconfirm filesystem pacman base-devel'
+[2019-12-07T08:01:34+0200] [PACMAN] synchronizing package lists
+[2019-12-07T08:02:39+0200] [ALPM] transaction started
+[2019-12-07T08:02:39+0200] [ALPM] installed iana-etc (20191030-1)
+[2019-12-07T08:02:39+0200] [ALPM] installed filesystem (2019.10-3)
+[2019-12-07T08:02:39+0200] [ALPM] installed bashrc-manjaro (5.0.011-1)
+[2019-12-07T08:02:39+0200] [ALPM] installed linux-api-headers (5.3.1-1)
+[2019-12-07T08:02:39+0200] [ALPM] installed tzdata (2019c-2)
+[2019-12-07T08:02:39+0200] [ALPM] installed glibc (2.30-2)
+[2019-12-07T08:02:41+0200] [ALPM] installed gcc-libs (9.2.0-4)
+[2019-12-07T08:02:41+0200] [ALPM] installed ncurses (6.1-6)
+[2019-12-07T08:02:41+0200] [ALPM] installed readline (8.0.001-1)
+[2019-12-07T08:02:41+0200] [ALPM] installed bash (5.0.011-1)
+[2019-12-07T08:02:41+0200] [ALPM] installed attr (2.4.48-2)
+[2019-12-07T08:02:41+0200] [ALPM] installed acl (2.2.53-2)
+[2019-12-07T08:02:41+0200] [ALPM] installed bzip2 (1.0.8-3)
+[2019-12-07T08:02:41+0200] [ALPM] installed expat (2.2.9-1)
+[2019-12-07T08:02:41+0200] [ALPM] installed lz4 (1:1.9.2-1)
+[2019-12-07T08:02:41+0200] [ALPM] installed gdbm (1.18.1-2)
+[2019-12-07T08:02:41+0200] [ALPM] installed db (5.3.28-4)
+[2019-12-07T08:02:42+0200] [ALPM] installed perl (5.30.0-3)
+[2019-12-07T08:02:43+0200] [ALPM] installed openssl (1.1.1.d-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed xz (5.2.4-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed zlib (1:1.2.11-3)
+[2019-12-07T08:02:43+0200] [ALPM] installed zstd (1.4.3-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libarchive (3.4.0-2)
+[2019-12-07T08:02:43+0200] [ALPM] installed gmp (6.1.2-2)
+[2019-12-07T08:02:43+0200] [ALPM] installed libcap (2.27-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed coreutils (8.31-3)
+[2019-12-07T08:02:43+0200] [ALPM] installed findutils (4.7.0-2)
+[2019-12-07T08:02:43+0200] [ALPM] installed libtasn1 (4.14-2)
+[2019-12-07T08:02:43+0200] [ALPM] installed libffi (3.2.1-3)
+[2019-12-07T08:02:43+0200] [ALPM] installed libgpg-error (1.36-2)
+[2019-12-07T08:02:43+0200] [ALPM] installed libgcrypt (1.8.5-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed systemd-libs (242.153-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed device-mapper (2.02.186-2)
+[2019-12-07T08:02:43+0200] [ALPM] installed popt (1.16-10)
+[2019-12-07T08:02:43+0200] [ALPM] installed libutil-linux (2.34-3)
+[2019-12-07T08:02:43+0200] [ALPM] installed json-c (0.13.1-2)
+[2019-12-07T08:02:43+0200] [ALPM] installed argon2 (20190702-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed cryptsetup (2.2.1-1.1)
+[2019-12-07T08:02:43+0200] [ALPM] installed e2fsprogs (1.45.4-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libsasl (2.1.27-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libldap (2.4.48-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed keyutils (1.6.1-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed krb5 (1.17-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libcap-ng (0.7.9-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed audit (2.8.5-3)
+[2019-12-07T08:02:43+0200] [ALPM] installed dbus (1.12.16-2.2)
+[2019-12-07T08:02:43+0200] [ALPM] installed libmnl (1.0.4-2)
+[2019-12-07T08:02:43+0200] [ALPM] installed libnftnl (1.1.4-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libnl (3.5.0-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libusb (1.0.23-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libpcap (1.9.1-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libnfnetlink (1.0.1-3)
+[2019-12-07T08:02:43+0200] [ALPM] installed libnetfilter_conntrack (1.0.7-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed iptables (1:1.8.3-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed cracklib (2.9.7-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libtirpc (1.1.4-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed pambase (20190105.1-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed pam (1.3.1-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed kbd (2.2.0-4)
+[2019-12-07T08:02:43+0200] [ALPM] installed kmod (26-3)
+[2019-12-07T08:02:43+0200] [ALPM] installed hwids (20190818-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libunistring (0.9.10-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libidn2 (2.2.0-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libelf (0.177-1)
+[2019-12-07T08:02:43+0200] [ALPM] installed libseccomp (2.4.1-2)
+[2019-12-07T08:02:44+0200] [ALPM] installed shadow (4.7-2)
+[2019-12-07T08:02:44+0200] [ALPM] installed util-linux (2.34-3)
+[2019-12-07T08:02:44+0200] [ALPM] installed pcre2 (10.33-1)
+[2019-12-07T08:02:44+0200] [ALPM] installed systemd (242.153-1)
+[2019-12-07T08:02:44+0200] [ALPM-SCRIPTLET] Initializing machine ID from random generator.
+[2019-12-07T08:02:45+0200] [ALPM-SCRIPTLET] Created symlink /etc/systemd/system/getty.target.wants/getty@tty1.service → /usr/lib/systemd/system/getty@.service.
+[2019-12-07T08:02:45+0200] [ALPM-SCRIPTLET] Created symlink /etc/systemd/system/multi-user.target.wants/remote-fs.target → /usr/lib/systemd/system/remote-fs.target.
+[2019-12-07T08:02:45+0200] [ALPM-SCRIPTLET] :: Append 'init=/usr/lib/systemd/systemd' to your kernel command line in your
+[2019-12-07T08:02:45+0200] [ALPM-SCRIPTLET]    bootloader to replace sysvinit with systemd, or install systemd-sysvcompat
+[2019-12-07T08:02:45+0200] [ALPM] installed p11-kit (0.23.18.1-1)
+[2019-12-07T08:02:45+0200] [ALPM-SCRIPTLET] Created symlink /etc/systemd/user/sockets.target.wants/p11-kit-server.socket → /usr/lib/systemd/user/p11-kit-server.socket.
+[2019-12-07T08:02:45+0200] [ALPM] installed ca-certificates-utils (20181109-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed ca-certificates-mozilla (3.47-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed ca-certificates (20181109-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed libssh2 (1.9.0-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed libpsl (0.21.0-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed libnghttp2 (1.39.2-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed curl (7.67.0-3)
+[2019-12-07T08:02:45+0200] [ALPM] installed npth (1.6-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed libksba (1.3.5-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed libassuan (2.5.3-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed pcre (8.43-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed glib2 (2.62.2-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed libsecret (0.19.1-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed pinentry (1.1.0-4)
+[2019-12-07T08:02:45+0200] [ALPM] installed nettle (3.5.1-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed gnutls (3.6.10-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed sqlite (3.30.1-1)
+[2019-12-07T08:02:45+0200] [ALPM] installed gnupg (2.2.17-2)
+[2019-12-07T08:02:45+0200] [ALPM] installed gpgme (1.13.1-1)
+[2019-12-07T08:02:46+0200] [ALPM] installed archlinux-keyring (20191018-1)
+[2019-12-07T08:02:46+0200] [ALPM] installed manjaro-keyring (20190608-1)
+[2019-12-07T08:02:46+0200] [ALPM] installed libnsl (1.2.0-1)
+[2019-12-07T08:02:48+0200] [ALPM] installed python (3.7.4-2)
+[2019-12-07T08:02:49+0200] [ALPM] installed python-npyscreen (4.10.5-2)
+[2019-12-07T08:02:49+0200] [ALPM] installed python-urllib3 (1.25.6-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed python-appdirs (1.4.3-2)
+[2019-12-07T08:02:49+0200] [ALPM] installed python-pyparsing (2.4.4-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed python-six (1.12.0-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed python-packaging (19.2-2)
+[2019-12-07T08:02:49+0200] [ALPM] installed python-setuptools (1:41.2.0-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed python-chardet (3.0.4-2)
+[2019-12-07T08:02:49+0200] [ALPM] installed python-idna (2.8-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed python-requests (2.22.0-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed pacman-mirrors (4.15.1-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed pacman (5.2.1-1)
+[2019-12-07T08:02:49+0200] [ALPM-SCRIPTLET] [1;1m[1;32m==>[1;0m[1;1m To import the data required by pacman for package verification run:[1;0m
+[2019-12-07T08:02:49+0200] [ALPM-SCRIPTLET] [1;1m[1;32m==>[1;0m[1;1m `pacman-key --init; pacman-key --populate archlinux manjaro`[1;0m
+[2019-12-07T08:02:49+0200] [ALPM-SCRIPTLET] [1;1m[1;32m==>[1;0m[1;1m See: https://www.archlinux.org/news/having-pacman-verify-packages[1;0m
+[2019-12-07T08:02:49+0200] [ALPM] installed mpfr (4.0.2-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed gawk (5.0.1-2)
+[2019-12-07T08:02:49+0200] [ALPM] installed m4 (1.4.18-2)
+[2019-12-07T08:02:49+0200] [ALPM] installed diffutils (3.7-2)
+[2019-12-07T08:02:49+0200] [ALPM] installed autoconf (2.69-5)
+[2019-12-07T08:02:49+0200] [ALPM] installed automake (1.16.1-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed binutils (2.33.1-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed bison (3.4.2-1)
+[2019-12-07T08:02:49+0200] [ALPM] installed sed (4.7-2)
+[2019-12-07T08:02:49+0200] [ALPM] installed fakeroot (1.24-1)
+[2019-12-07T08:02:50+0200] [ALPM] installed file (5.37-3)
+[2019-12-07T08:02:50+0200] [ALPM] installed flex (2.6.4-2)
+[2019-12-07T08:02:50+0200] [ALPM] installed libmpc (1.1.0-1)
+[2019-12-07T08:02:52+0200] [ALPM] installed gcc (9.2.0-4)
+[2019-12-07T08:02:53+0200] [ALPM] installed icu (64.2-1)
+[2019-12-07T08:02:53+0200] [ALPM] installed libxml2 (2.9.9-3)
+[2019-12-07T08:02:53+0200] [ALPM] installed libcroco (0.6.13-1)
+[2019-12-07T08:02:53+0200] [ALPM] installed gettext (0.20.1-2)
+[2019-12-07T08:02:53+0200] [ALPM] installed grep (3.3-2)
+[2019-12-07T08:02:53+0200] [ALPM] installed groff (1.22.4-1)
+[2019-12-07T08:02:53+0200] [ALPM] installed less (551-2)
+[2019-12-07T08:02:53+0200] [ALPM] installed gzip (1.10-2)
+[2019-12-07T08:02:53+0200] [ALPM] installed tar (1.32-2)
+[2019-12-07T08:02:53+0200] [ALPM] installed libtool (2.4.6+42+gb88cebd5-6)
+[2019-12-07T08:02:53+0200] [ALPM] installed texinfo (6.7-1)
+[2019-12-07T08:02:53+0200] [ALPM] installed libatomic_ops (7.6.10-1)
+[2019-12-07T08:02:53+0200] [ALPM] installed gc (8.0.4-2)
+[2019-12-07T08:02:53+0200] [ALPM] installed guile (2.2.6-1)
+[2019-12-07T08:02:53+0200] [ALPM] installed make (4.2.1-3)
+[2019-12-07T08:02:53+0200] [ALPM] installed patch (2.7.6-7)
+[2019-12-07T08:02:53+0200] [ALPM] installed pkgconf (1.6.3-2)
+[2019-12-07T08:02:53+0200] [ALPM] installed sudo (1.8.29-1)
+[2019-12-07T08:02:53+0200] [ALPM] installed which (2.21-4)
+[2019-12-07T08:02:54+0200] [ALPM] transaction completed
+[2019-12-07T08:02:54+0200] [ALPM] running '20-systemd-sysusers.hook'...
+[2019-12-07T08:02:54+0200] [ALPM] running 'dbus-reload.hook'...
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET]   Skipped: Current root is not booted.
+[2019-12-07T08:02:54+0200] [ALPM] running 'detect-old-perl-modules.hook'...
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] perl: warning: Setting locale failed.
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] perl: warning: Please check that your locale settings:
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] 	LANGUAGE = "",
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] 	LC_ALL = (unset),
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] 	LC_ADDRESS = "en_US.UTF-8",
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] 	LC_MONETARY = "en_FI.UTF-8",
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] 	LC_PAPER = "en_US.UTF-8",
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] 	LC_MESSAGES = "C",
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] 	LC_MEASUREMENT = "en_FI.UTF-8",
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] 	LC_TIME = "en_FI.UTF-8",
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] 	LANG = "C"
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET]     are supported and installed on your system.
+[2019-12-07T08:02:54+0200] [ALPM-SCRIPTLET] perl: warning: Falling back to the standard locale ("C").
+[2019-12-07T08:02:54+0200] [ALPM] running 'pacman-mirrors-install.hook'...
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::[1;33mWARNING[1;m https://gitlab.manjaro.org '<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)>'
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::[1;33mWARNING[1;m https://wikipedia.org '<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)>'
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::[1;33mWARNING[1;m https://bitbucket.org '<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)>'
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::[1;37mINFO[1;m Internet connection appears to be down
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::[1;37mINFO[1;m Mirror ranking is not available
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::[1;37mINFO[1;m Mirror list is generated using random method
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::[1;37mINFO[1;m Writing mirror list
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Australia       : http://manjaro.melbourneitmirror.net/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Netherlands     : https://mirror.koddos.net/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Sweden          : https://ftp.lysator.liu.se/pub/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Denmark         : https://mirrors.dotsrc.org/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Bulgaria        : https://manjaro.ipacct.com/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Iran            : https://repo.sadjad.ac.ir/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Taiwan          : http://free.nchc.org.tw/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::China           : https://mirrors.zju.edu.cn/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::United_States   : http://distro.ibiblio.org/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::China           : https://mirrors.ustc.edu.cn/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Poland          : http://mirror.chmuri.net/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::United_Kingdom  : https://www.mirrorservice.org/sites/repo.manjaro.org/repos/sta[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Sweden          : https://mirror.zetup.net/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Germany         : https://repo.rhindon.net/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Italy           : https://ba.mirror.garr.it/mirrors/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::United_States   : http://mirror.dacentec.com/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Philippines     : http://mirror.rise.ph/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Italy           : https://manjaro.mirror.garr.it/mirrors/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Japan           : http://ftp.tsukuba.wide.ad.jp/Linux/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Bulgaria        : http://manjaro.telecoms.bg/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Denmark         : https://www.uex.dk/public/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::United_States   : https://mirror.math.princeton.edu/pub/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::United_States   : https://mirrors.ocf.berkeley.edu/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Belarus         : http://mirror.datacenter.by/pub/mirrors/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Turkey          : http://ftp.linux.org.tr/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Netherlands     : https://ftp.nluug.nl/pub/os/Linux/distr/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Costa_Rica      : https://mirrors.ucr.ac.cr/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::France          : http://kibo.remi.lu/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Romania         : http://mirrors.serverhost.ro/manjaro/packages/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Australia       : http://mirror.ventraip.net.au/Manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Bangladesh      : http://mirror.xeonbd.com/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Russia          : https://mirror.yandex.ru/mirrors/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Hungary         : http://mirror.infotronik.hu/mirrors/pub/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Austria         : http://mirror.inode.at/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Belgium         : http://ftp.belnet.be/mirrors/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::United_Kingdom  : http://manjaro.mirrors.uk2.net/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Greece          : https://ftp.cc.uoc.gr/mirrors/linux/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::United_States   : https://mirror.clarkson.edu/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::China           : https://mirrors.sjtug.sjtu.edu.cn/manjarostable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Netherlands     : http://ftp.snt.utwente.nl/pub/linux/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Chile           : http://manjaro.dcc.uchile.cl/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::China           : https://mirrors.shu.edu.cn/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Indonesia       : http://kartolo.sby.datautama.net.id/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Russia          : http://mirror.truenetwork.ru/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Portugal        : http://manjaro.barata.pt/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Brazil          : http://mirror.ufam.edu.br/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::United_Kingdom  : http://repo.manjaro.org.uk/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Ecuador         : https://mirror.cedia.org.ec/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::China           : http://mirrors.tuna.tsinghua.edu.cn/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::South_Africa    : http://manjaro.mirror.ac.za/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Belgium         : https://manjaro.cu.be/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Colombia        : http://mirror.upb.edu.co/manjarostable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::United_Kingdom  : http://mirror.catn.com/pub/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Germany         : http://ftp.rz.tu-bs.de/pub/mirror/manjaro.org/repos/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Canada          : https://osmirror.org/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Germany         : http://ftp.tu-chemnitz.de/pub/linux/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Hong_Kong       : http://ftp.cuhk.edu.hk/pub/Linux/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Spain           : http://ftp.caliu.cat/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Indonesia       : http://kambing.ui.ac.id/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Germany         : http://mirror.ragenetwork.de/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Brazil          : https://manjaro.c3sl.ufpr.br/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Germany         : https://manjaro.moson.eu/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Germany         : https://ftp.halifax.rwth-aachen.de/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Czech           : https://mirror.dkm.cz/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Singapore       : https://download.nus.edu.sg/mirror/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Germany         : https://mirror.netcologne.de/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Ecuador         : https://mirror.espoch.edu.ec/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Poland          : https://mirror.tuchola-dc.pl/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Italy           : https://ct.mirror.garr.it/mirrors/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::South_Africa    : http://mirror.is.co.za/mirrors/manjaro.org/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Bulgaria        : https://mirrors.netix.net/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Germany         : https://mirror.philpot.de/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Brazil          : http://pet.inf.ufsc.br/mirrors/manjarolinux/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::France          : http://ftp.free.org/mirrors/repo.manjaro.org/repos/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Japan           : http://ftp.riken.jp/Linux/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Brazil          : http://linorg.usp.br/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::China           : https://mirrors.shuosc.org/manjaro/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::Germany         : https://mirror.netzspielplatz.de/manjaro/packages/stable[1;m
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] ::[1;37mINFO[1;m Mirror list generated and saved to: /etc/pacman.d/mirrorlist
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET] hint: use `pacman-mirrors` to generate and update your pacman mirrorlist.
+[2019-12-07T08:02:55+0200] [ALPM] running 'systemd-catalog.hook'...
+[2019-12-07T08:02:55+0200] [ALPM] running 'systemd-daemon-reload.hook'...
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET]   Skipped: Current root is not booted.
+[2019-12-07T08:02:55+0200] [ALPM] running 'systemd-hwdb.hook'...
+[2019-12-07T08:02:55+0200] [ALPM] running 'systemd-sysctl.hook'...
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET]   Skipped: Current root is not booted.
+[2019-12-07T08:02:55+0200] [ALPM] running 'systemd-tmpfiles.hook'...
+[2019-12-07T08:02:55+0200] [ALPM] running 'systemd-udev-reload.hook'...
+[2019-12-07T08:02:55+0200] [ALPM-SCRIPTLET]   Skipped: Device manager is not running.
+[2019-12-07T08:02:55+0200] [ALPM] running 'systemd-update.hook'...
+[2019-12-07T08:02:55+0200] [ALPM] running 'texinfo-install.hook'...
+[2019-12-07T08:02:57+0200] [ALPM] running 'update-ca-trust.hook'...
