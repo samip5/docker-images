@@ -3,8 +3,8 @@ FROM manjaroarm/manjaro-aarch64-base
 
 WORKDIR /usr/local/src/
 
-# Install devel requirements plus git
-RUN pacman -Syu --noconfirm base-devel git sudo go
+# Install go as requirement for yay.
+RUN pacman -Syu --noconfirm sudo go
 
 # Clear pacman cache.
 RUN pacman -Scc --noconfirm
